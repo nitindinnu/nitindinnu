@@ -2,7 +2,7 @@
 - 👀 I’m interested in new stuff
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nitin2239@outlook.com
+- 📫 How to reach me nitin2239@proto.me
 
 <!---
 nitindinnu/nitindinnu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
