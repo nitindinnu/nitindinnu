@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitindinnu
-- 👀 I’m interested in new stuff
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in new stuff based on VLSI
+- 🌱 I’m currently learning RTL design and Verification (verilog,Sytem verilog,UVM)
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me nitin2239@proto.me
 
 <!---
